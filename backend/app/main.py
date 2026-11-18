@@ -36,6 +36,7 @@ origins = list(
             "http://127.0.0.1:5173",  # Loopback IP format for Vite
             "http://localhost:4173",  # Vite preview
             "http://127.0.0.1:4173",
+            "https://team-collo.vercel.app",
         ]
         + settings.cors_origins_list
     )
