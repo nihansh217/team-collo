@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# Backup archives
+backend.zip
